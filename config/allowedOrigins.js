@@ -3,7 +3,7 @@ const allowedOrigins = [
   "http://localhost:3500",
   "http://localhost:3000",
   "https://dazzling-snickerdoodle-777101.netlify.app",
-  "https://icy-few-panama.glitch.me",
+  "https://colossal-obtainable-sweater.glitch.me",
 ];
 
 module.exports = allowedOrigins;
